@@ -8,6 +8,7 @@ namespace GitHubPractice.Controllers
     {
         public IActionResult Index()
         {
+            //Just trying to see what happens
             return View();
         }
     }
